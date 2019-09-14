@@ -1,6 +1,6 @@
 # ROUTING
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+In this project how routing works in Angular7 is described.This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Development server
 
