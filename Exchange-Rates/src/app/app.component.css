@@ -1,0 +1,15 @@
+header {
+  background-color: brown;
+  display: flex;
+  padding: 35px;
+  justify-content: center;
+  align-items: center;
+}
+header h1 {
+  color: blanchedalmond;
+}
+main {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
